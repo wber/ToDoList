@@ -17,3 +17,5 @@ Screenshots:
 <img src=https://github.com/wber/ToDoList/blob/main/Screenshot-ToDoList-x2.jpg width=300px/>
 <br><br>
 <img src=https://github.com/wber/ToDoList/blob/main/Screenshot-ToDoList-x3.jpg width=300px/>
+<br><br>
+<img src=https://github.com/wber/ToDoList/blob/main/Screenshot-ToDoList-x5.jpg width=300px/>
