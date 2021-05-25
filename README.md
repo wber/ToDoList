@@ -1,8 +1,7 @@
 # ToDoList
 Android Studio Kotlin ToDoList checklist app
 by 
-Vanya Sark-Geissler
-Developed for Bucks New University course: CO566 Mobile Systems
+Vanya Sark-Geissler for course: CO566 Mobile Systems
 
 Instal Guide:
 Download the zip.
