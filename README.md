@@ -9,3 +9,5 @@ Download ToDoList.zip and Open it with Archive Utility (MacOS) or Extract (Windo
 Screenshots:
 <br>
 <img src=https://github.com/wber/ToDoList/blob/main/Screenshot-Favicon.jpg width=300px/>
+<br>
+<img src=https://github.com/wber/ToDoList/blob/main/Screenshot-ToDoList-x1.jpg width=300px/>
